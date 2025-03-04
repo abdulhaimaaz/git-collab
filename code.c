@@ -8,3 +8,11 @@ int main(){
     printf("Hi this is fawaz!);
     return 0;
 }
+
+
+#include <stdio.h>
+
+int main() {
+    printf("Maaz\n");
+    return 0;
+}
