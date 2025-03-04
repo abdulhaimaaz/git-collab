@@ -5,7 +5,8 @@ int main(){
         printf("%d\n",i);
     }
 
-    printf("Hi this is fawaz!");
-    printf("Hi this is Omerr!");
+    printf("Hi this is fawaz!);
+    printf("Hi this is Omerr!);
+    printf("Hi this is Maaz!);
     return 0;
 }
